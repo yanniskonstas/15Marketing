@@ -1,6 +1,6 @@
 # 15Marketing
 
-Database factory
+Datastores factory
 
 - This is a simplified task implementation
 - The DataStore interface should incorporate all the implementation that a database engine needs to connect, CRUD operations etc. It's rather minimal now having some dummy properties and methods as a reference in order to establish a connection and to perform a command
